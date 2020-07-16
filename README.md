@@ -8,5 +8,5 @@
 
 **作者介绍:**  杭州某985硕士，在后端方向的学习道路上进行。
 
-<img src="./images/icon.png" style="zoom:30%;" />
+<img src="./images/profile.jpeg" style="zoom:30%;" />
 

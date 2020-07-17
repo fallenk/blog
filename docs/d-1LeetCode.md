@@ -86,6 +86,18 @@
 
 [股票购买+冻结期](./docs/Dynamic/LC1390.md)
 
+[股票188](./docs/Dynamic/LC188.md)
+
+[股票714](./docs/Dynamic/LC1714.md)
+
+
+
+
+
+## 打家劫舍
+
+[打家劫舍3](./docs/Dynamic/LC337.md)
+
 
 
 ## 树

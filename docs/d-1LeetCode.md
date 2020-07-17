@@ -54,7 +54,7 @@
 
 [二叉搜索树与双向链表.md](./docs/LeetCode/二叉搜索树与双向链表.md)
 
-
+[查找并插入](.docs/BinarySearch/LC35.md)
 
 
 

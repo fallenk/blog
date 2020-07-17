@@ -82,6 +82,10 @@
 
 [股票购买](./docs/Dynamic/LC121.md)
 
+[股票购买+k无限制](./docs/Dynamic/LC122.md)
+
+[股票购买+冻结期](./docs/Dynamic/LC1390.md)
+
 
 
 ## 树

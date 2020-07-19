@@ -78,6 +78,12 @@
 
 [三角形最小路径](./docs/Dynamic/LC120.md)
 
+
+
+[戳气球](./docs/Dynamic/LC312.md)
+
+
+
 ### 股票问题
 
 [股票购买](./docs/Dynamic/LC121.md)

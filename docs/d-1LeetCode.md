@@ -10,6 +10,10 @@
 
 [算法40讲数组和链表.md](./docs/LeetCode/算法40讲数组和链表.md)
 
+
+
+[牛客网](./docs/nowcoder/scanner.md)
+
 ## 数字
 
 1. [两数之和](./docs/LeetCode/1两数之和.md)

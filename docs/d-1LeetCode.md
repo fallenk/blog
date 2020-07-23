@@ -88,6 +88,14 @@
 
 
 
+[最小路径](./docs/Dynamic/LC64.md)
+
+
+
+
+
+
+
 ### 股票问题
 
 [股票购买](./docs/Dynamic/LC121.md)

@@ -17,9 +17,7 @@
 ## 数字
 
 1. [两数之和](./docs/LeetCode/1两数之和.md)
-
 2. [打印1到n位数.md](./docs/LeetCode/打印1到n位数.md)
-
 3. [三数之和.md](./docs/LeetCode/三数之和.md)
 4. [1到n的数字1出现的次数.md](./docs/LeetCode/1到n的数字1出现的次数.md)
 5. [数值的整数次方.md](./docs/LeetCode/数值的整数次方.md)
@@ -29,8 +27,7 @@
 9. [回文数.md](./docs/LeetCode/回文数.md)
 10. [出现3次的数组中寻找出现一次的数字.md](./docs/LeetCode/出现3次的数组中寻找出现一次的数字.md)
 11. [寻找两个只出现一次的数字.md](./docs/LeetCode/寻找两个只出现一次的数字.md)
-
-
+12. [除数博弈](./docs/Dynamic/LC1025.md)
 
 ## DFS 解析
 
@@ -159,12 +156,6 @@
 ## 贪心
 
 [贪心-剪绳子.md](./docs/LeetCode/贪心-剪绳子.md)
-
-
-
-
-
-
 
 
 

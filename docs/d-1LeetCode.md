@@ -57,6 +57,10 @@
 
 [剑指11](./docs/lcof/11.md)
 
+[分割数组的最大值](./docs/Dynamic/LC410.md)
+
+
+
 
 
 # 双指针
@@ -95,7 +99,7 @@
 
 [最小路径](./docs/Dynamic/LC64.md)
 
-
+[分割数组的最大值](./docs/Dynamic/LC410.md)
 
 # 链表
 

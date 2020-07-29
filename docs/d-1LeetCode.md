@@ -101,6 +101,10 @@
 
 [分割数组的最大值](./docs/Dynamic/LC410.md)
 
+
+
+[寻宝](./docs/Dynamic/LC1544.md)
+
 # 链表
 
 [链表插入排序](./docs/LinkList/LC147.md)

@@ -2,7 +2,7 @@
 
 规划好**学习路线以及方法**
 
-
+书籍推荐
 
 ## 基础
 
@@ -24,4 +24,7 @@
 
 
 
-[关于HashMap 介绍](./Java/Collections/HashMap.md)
+[关于HashMap 源码解读](./docs/Java/Collections/HashMap.md)
+
+[关于ConcurrentHashMap](./docs/Java/Collections/ConcurrentHashMap.md)
+

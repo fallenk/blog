@@ -1,7 +1,7 @@
 
-* [Java](./Java/Java.md)
-* [算法](./docs/c-3算法.md)
+* [Java学习](./docs/Java/Java.md)
 * [LeetCode](./docs/d-1LeetCode.md)
+* [算法题](./docs/c-3算法.md)
 * [项目](./docs/Projects.md)
 * 联邦学习
 * [Golang](./docs/Golang.md)

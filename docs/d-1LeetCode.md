@@ -2,38 +2,11 @@
 
 
 
-[算法40讲笔记](./docs/LeetCode/算法40讲笔记)
-
-[算法40讲笔记.md](./docs/LeetCode/算法40讲笔记.md)
-
-[算法40讲数组和链表](./docs/LeetCode/算法40讲数组和链表)
-
-[算法40讲数组和链表.md](./docs/LeetCode/算法40讲数组和链表.md)
-
-
-
-[牛客网](./docs/nowcoder/scanner.md)
-
-## 数字
-
-1. [两数之和](./docs/LeetCode/1两数之和.md)
-2. [打印1到n位数.md](./docs/LeetCode/打印1到n位数.md)
-3. [三数之和.md](./docs/LeetCode/三数之和.md)
-4. [1到n的数字1出现的次数.md](./docs/LeetCode/1到n的数字1出现的次数.md)
-5. [数值的整数次方.md](./docs/LeetCode/数值的整数次方.md)
-6. [数组中出现超过一半的数字.md](./docs/LeetCode/数组中出现超过一半的数字.md)
-7. [1两数之和.md](./docs/LeetCode/1两数之和.md)
-8. [回文数-1.md](./docs/LeetCode/回文数-1.md)
-9. [回文数.md](./docs/LeetCode/回文数.md)
-10. [出现3次的数组中寻找出现一次的数字.md](./docs/LeetCode/出现3次的数组中寻找出现一次的数字.md)
-11. [寻找两个只出现一次的数字.md](./docs/LeetCode/寻找两个只出现一次的数字.md)
-12. [除数博弈](./docs/Dynamic/LC1025.md)
+[牛客网输入输出](./docs/nowcoder/scanner.md)
 
 ## DFS 解析
 
 [二分图的解析](./docs/LeetCode/LC785.md)
-
-
 
 
 
@@ -61,13 +34,9 @@
 
 
 
-
-
 # 双指针
 
 [盛水的最大容器](/docs/BinarySearch/LC11.md)
-
-
 
 
 
@@ -169,6 +138,23 @@
 
 
 
+## 数字
+
+1. [两数之和](./docs/LeetCode/1两数之和.md)
+2. [打印1到n位数.md](./docs/LeetCode/打印1到n位数.md)
+3. [三数之和.md](./docs/LeetCode/三数之和.md)
+4. [1到n的数字1出现的次数.md](./docs/LeetCode/1到n的数字1出现的次数.md)
+5. [数值的整数次方.md](./docs/LeetCode/数值的整数次方.md)
+6. [数组中出现超过一半的数字.md](./docs/LeetCode/数组中出现超过一半的数字.md)
+7. [1两数之和.md](./docs/LeetCode/1两数之和.md)
+8. [回文数-1.md](./docs/LeetCode/回文数-1.md)
+9. [回文数.md](./docs/LeetCode/回文数.md)
+10. [出现3次的数组中寻找出现一次的数字.md](./docs/LeetCode/出现3次的数组中寻找出现一次的数字.md)
+11. [寻找两个只出现一次的数字.md](./docs/LeetCode/寻找两个只出现一次的数字.md)
+12. [除数博弈](./docs/Dynamic/LC1025.md)
+
+
+
 
 
 ## 贪心
@@ -202,8 +188,6 @@
 
 
 [树的子结构.md](./docs/LeetCode/树的子结构.md)
-
-
 
 
 
@@ -241,12 +225,6 @@
 
 
 
-
-
-
-
-
-
 [LC76-minWindowOC.md](./docs/LeetCode/LC76-minWindowOC.md)
 
 [spring-bootSummary](./docs/LeetCode/spring-bootSummary)
@@ -256,8 +234,6 @@
 [NeuralArchitectureSearch](./docs/LeetCode/NeuralArchitectureSearch)
 
 [BFS二叉树2.md](./docs/LeetCode/BFS二叉树2.md)
-
-
 
 
 
@@ -292,3 +268,16 @@
 
 
 [贪心-剪绳子2.md](./docs/LeetCode/贪心-剪绳子2.md)
+
+
+
+[算法40讲笔记](./docs/LeetCode/算法40讲笔记)
+
+[算法40讲笔记.md](./docs/LeetCode/算法40讲笔记.md)
+
+[算法40讲数组和链表](./docs/LeetCode/算法40讲数组和链表)
+
+[算法40讲数组和链表.md](./docs/LeetCode/算法40讲数组和链表.md)
+
+
+

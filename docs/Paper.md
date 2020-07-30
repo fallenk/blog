@@ -2,19 +2,11 @@
 
 ## 论文
 
-[LEAF](./docs/LeetCode/LEAF)
-
 
 
 [Communication-Efficient-Learning-of-Deep-Networks-from-Decentralized-Data](./docs/LeetCode/Communication-Efficient-Learning-of-Deep-Networks-from-Decentralized-Data)
 
 
-
-[Non-IID数据集调研.md](./docs/LeetCode/Non-IID数据集调研.md)
-
-[Non-IID数据集调研](./docs/LeetCode/Non-IID数据集调研)
-
-[Feddataset](./docs/LeetCode/Feddataset)
 
 
 
@@ -32,23 +24,17 @@
 
 [彩票假设paper阅读笔记](./docs/LeetCode/彩票假设paper阅读笔记)
 
-[A-generic-framwork-for-privacy-preserving-deep-learning](./docs/LeetCode/A-generic-framwork-for-privacy-preserving-deep-learning)
-
 
 
 [paper3-Skyway-Connecting-Managed-Heaps-in-Distributed-Big-Data-Systems](./docs/LeetCode/paper3-Skyway-Connecting-Managed-Heaps-in-Distributed-Big-Data-Systems)
 
 
 
-[Feddataset.md](./docs/LeetCode/Feddataset.md)
-
 
 
 [paper3-Skyway-Connecting-Managed-Heaps-in-Distributed-Big-Data-Systems.md](./docs/LeetCode/paper3-Skyway-Connecting-Managed-Heaps-in-Distributed-Big-Data-Systems.md)
 
 
-
-[Communication-Efficient-Learning-of-Deep-Networks-from-Decentralized-Data.md](./docs/LeetCode/Communication-Efficient-Learning-of-Deep-Networks-from-Decentralized-Data.md)
 
 
 
@@ -68,7 +54,7 @@
 
 [jupyter学习笔记](./docs/LeetCode/jupyter学习笔记)
 
-[分布式机器学习论文.md](./docs/LeetCode/分布式机器学习论文.md)
+
 
 [论文阅读-RandWiredNN](./docs/LeetCode/论文阅读-RandWiredNN)
 

@@ -4,6 +4,14 @@
 
 [牛客网输入输出](./docs/nowcoder/scanner.md)
 
+
+
+[背包问题总结](./docs/Dynamic/Bag.md)
+
+
+
+
+
 ## DFS 解析
 
 [二分图的解析](./docs/LeetCode/LC785.md)
@@ -40,7 +48,7 @@
 
 
 
-## 动态规划
+# 动态规划
 
 [动态规划字符串.md](./docs/LeetCode/动态规划字符串.md)
 
@@ -73,6 +81,10 @@
 
 
 [寻宝](./docs/Dynamic/LC1544.md)
+
+
+
+
 
 # 链表
 

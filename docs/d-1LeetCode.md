@@ -6,9 +6,9 @@
 
 
 
-[背包问题总结](./docs/Dynamic/Bag.md)
+[动态规划问题总结](./docs/Dynamic/Bag.md)
 
-
+[背包问题总结](./docs/Dynamic/Package.md)
 
 
 

@@ -343,3 +343,45 @@ public class Solution {
 
 - 状态：`dp[i][j]` 表示走到坐标 `(i, j)` 的路径总数；
 - 状态转移方程：思路依然是分类讨论，走到坐标 `(i, j)`  可以从上方下来，也可以从左边过来，路径总数是二者之和；
+
+
+
+
+
+# 动态规划典型问题
+
+## 练习 1：[「力扣」第 300 题：最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/description/)
+
+- 题解：[动态规划 、优化（以贪心和二分作为子过程）](https://leetcode-cn.com/problems/longest-increasing-subsequence/solution/dong-tai-gui-hua-er-fen-cha-zhao-tan-xin-suan-fa-p/)
+
+扩展问题：[「力扣」第 354 题：俄罗斯套娃信封问题](https://leetcode-cn.com/problems/russian-doll-envelopes/)
+
+- 题解：[贪心算法、二分查找（Python 代码、Java 代码）](https://leetcode-cn.com/problems/russian-doll-envelopes/solution/tan-xin-suan-fa-er-fen-cha-zhao-python-dai-ma-java/)
+
+### 练习 2：[「力扣」第 1143 题：最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/)
+
+- 题解：[动态规划](https://liweiwei1419.gitee.io/leetcode-algo/2018/05/14/leetcode-algo/1143-longest-common-subsequence/)
+
+### 练习 3：[「力扣」第 53 题：最大子序和](https://leetcode-cn.com/problems/maximum-subarray)
+
+- 题解：[动态规划、分治法](https://leetcode-cn.com/problems/maximum-subarray/solution/dong-tai-gui-hua-fen-zhi-fa-python-dai-ma-java-dai/)
+
+### 练习 4：[「力扣」第 376 题：摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence/) 
+
+- 题解：[「力扣」第 376 题：摆动序列（动态规划）](https://blog.csdn.net/lw_power/article/details/103970211)
+
+### 练习 5：[「力扣」第 72 题：编辑距离](https://leetcode-cn.com/problems/edit-distance/)
+
+- 题解：[动态规划（Java）](https://leetcode-cn.com/problems/edit-distance/solution/dong-tai-gui-hua-java-by-liweiwei1419/)
+
+### 练习 6：[「力扣」第 120 题：三角形最小路径和](https://leetcode-cn.com/problems/triangle/)
+
+- 题解：
+
+### 练习 7：[「力扣」第 152 题：乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray/)
+
+- 题解：[二维动态规划](https://leetcode-cn.com/problems/maximum-product-subarray/solution/er-wei-dong-tai-gui-hua-by-liweiwei1419/)
+
+### 练习 8：[「力扣」第 887 题：鸡蛋掉落](https://leetcode-cn.com/problems/super-egg-drop/)
+
+- 题解：[动态规划（只解释官方题解方法一）（Java）](https://leetcode-cn.com/problems/super-egg-drop/solution/dong-tai-gui-hua-zhi-jie-shi-guan-fang-ti-jie-fang/)

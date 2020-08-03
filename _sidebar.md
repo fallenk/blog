@@ -4,7 +4,7 @@
 * [算法题](./docs/c-3算法.md)
 * [项目](./docs/Projects.md)
 * [联邦学习](./docs/FLPaper.md)
-* [Golang](./docs/Golang.md)
+* [Golang学习](./docs/Golang.md)
 * [Python](./docs/Python.md)
 * [论文](./docs/Paper.md)
 * [其他](./docs/others.md)

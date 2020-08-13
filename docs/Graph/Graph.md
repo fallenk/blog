@@ -47,3 +47,4 @@ dfs 非递归。一般用 stack。
  HashMap<Node, Node> visited = new HashMap();
 ```
 
+数据的存储结构

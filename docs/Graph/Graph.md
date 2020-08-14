@@ -26,6 +26,13 @@ class Node {
         this.neighbors = neighbors;
     }
 }
+
+Queue<Integer> queue = new LinkedList<Integer>();
+
+Stack<Integer> stack = new LinkedList<Integer>();
+Deque<Integer> stack = new ArrayDeque<>();
+
+List<Integer> list = new ArrayList<>();
 ```
 
 ## 图的遍历

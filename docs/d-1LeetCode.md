@@ -138,6 +138,8 @@
 
 # 树
 
+[平衡树](./docs/Tree/LC110.md)
+
 [树转链表](./dcos/Tree/LC114.md)
 
 [二叉数的序列化与反序列化.md](./docs/LeetCode/二叉数的序列化与反序列化.md)

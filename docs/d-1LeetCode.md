@@ -28,7 +28,7 @@
 
 [二分图的解析](./docs/LeetCode/LC785.md)
 
-
+[扫雷](./docs/Graph/LC529.md)
 
 # 二分查找
 

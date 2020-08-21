@@ -144,6 +144,8 @@
 
 # 树
 
+[树的最小深度](./docs/Tree/LC111.md)
+
 [平衡树](./docs/Tree/LC110.md)
 
 [树转链表](./dcos/Tree/LC114.md)

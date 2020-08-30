@@ -114,6 +114,8 @@
 
 [翻转字符串](./docs/String/LC557.md)
 
+[KMP](./docs/String/KMP.md)
+
 # 字典树
 
 [字典树](./docs/DicTree/LC336.md)

@@ -110,7 +110,7 @@
 
 [寻宝](./docs/Dynamic/LC1544.md)
 
-
+[博弈数字](./docs/Dynamic/LC486.md)
 
 # 字符串
 

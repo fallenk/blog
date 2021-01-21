@@ -231,3 +231,13 @@ cat ~/.ssh/id_rsa.pub
 
 看教程一定看懂啊
 
+
+
+https://www.cnblogs.com/NyanKoSenSei/p/13381540.html
+
+
+
+https://zhuanlan.zhihu.com/p/90508170
+
+
+

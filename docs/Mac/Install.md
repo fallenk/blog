@@ -198,7 +198,7 @@ https://zhuanlan.zhihu.com/p/129257729
 
 ### Step1 查看 socks5 监听本地哪个端口
 
-![img](https://pic2.zhimg.com/80/v2-a24bf8cdbb2d30d783e1b42f7ef60ac9_1440w.jpg)
+<img src="https://pic2.zhimg.com/80/v2-a24bf8cdbb2d30d783e1b42f7ef60ac9_1440w.jpg" alt="img" style="zoom:50%;" />
 
 
 
@@ -218,3 +218,16 @@ git config --global http.https://github.com.proxy socks5://127.0.0.1:1080
 ### 有图有真相
 
 ![img](https://pic4.zhimg.com/80/v2-dfe76b6ac8b0ef4059c3fab11ee3689b_1440w.jpg)
+
+
+
+## SSH KEYS
+
+在GitHub中，同一账号的 ssh公钥问题，
+
+cat ~/.ssh/id_rsa.pub
+
+要明白 SHA256的公钥， 不要复制结尾的邮箱部分
+
+看教程一定看懂啊
+

@@ -7,5 +7,6 @@
 * [Golang学习](./docs/Golang.md)
 * [Python](./docs/Python.md)
 * [论文](./docs/Paper.md)
+* [工具](./docs/Mac/Install.md)
 * [其他](./docs/others.md)
 
